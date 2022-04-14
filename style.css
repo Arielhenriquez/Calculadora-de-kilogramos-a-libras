@@ -1,0 +1,15 @@
+body{ 
+    background: #f0f0f0 ;
+}
+
+input{ 
+    padding: 5px;
+    color: rgb(104, 99, 99);
+    width: 200px;
+}
+
+button{ 
+    padding: 10px;
+    background: rgb(253, 246, 246);
+    color:#065dff;
+}
